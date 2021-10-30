@@ -1,4 +1,4 @@
--- Assignment Day1 - SQL: Comprehensive practice
+-- Assignment Day3 - SQL: Comprehensive practice
 
 ---- Answer these questions:
 -- 1. In SQL Server, assuming you can find the result by using both joins and subqueries, which one would you prefer to use and why?
@@ -17,7 +17,7 @@
 -- (**) 5. What is Identity column? How does DELETE and TRUNCATE affect it?
 
 
--- (**) 6. What is difference between “delete from table_name” and “truncate table table_name”?
+-- (**) 6. What is difference between â€œdelete from table_nameâ€ and â€œtruncate table table_nameâ€?
 
 
 
@@ -97,7 +97,7 @@ JOIN dbo.Customers c ON c.CustomerID = dt.CustomerID) dt2
 GROUP BY dt2.City
 HAVING COUNT(dt2.ProductID) >= 2) dt3;
 
--- 7.	List all Customers who have ordered products, but have the ‘ship city’ on the order different from their own customer cities.
+-- 7.	List all Customers who have ordered products, but have the â€˜ship cityâ€™ on the order different from their own customer cities.
 SELECT * FROM dbo.Products
 SELECT * FROM dbo.Orders
 SELECT * FROM dbo.[Order Details]
