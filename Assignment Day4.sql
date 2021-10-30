@@ -1,4 +1,4 @@
--- Assignment Day1 - SQL: Comprehensive practice
+-- Assignment Day4 - SQL: Comprehensive practice
 
 ---- Answer these questions:
 /**
@@ -48,7 +48,7 @@ No, stored procedure relies on "EXEC stroed_procedure_name". SELECT cannot call 
 USE Northwind
 GO
 
--- 1.	Create a view named ìview_product_order_[your_last_name]î, list all products and total ordered quantity for that product.
+-- 1.	Create a view named ‚Äúview_product_order_[your_last_name]‚Äù, list all products and total ordered quantity for that product.
 CREATE VIEW view_product_order_Yao
 AS
 SELECT p.ProductName, SUM(d.Quantity) AS [Total Quantity]
@@ -57,7 +57,7 @@ RIGHT JOIN dbo.[Order Details] d
 ON p.ProductID = d.ProductID
 GROUP BY p.ProductName;
 
--- 2.	Create a stored procedure ìsp_product_order_quantity_[your_last_name]î that accept product id as an input and total quantities of order as output parameter.
+-- 2.	Create a stored procedure ‚Äúsp_product_order_quantity_[your_last_name]‚Äù that accept product id as an input and total quantities of order as output parameter.
 CREATE PROC sp_product_order_quantity_Yao
 @product_id INT,
 @total_quantities INT OUTPUT
@@ -69,7 +69,7 @@ BEGIN
 	GROUP BY ProductID
 END
 
--- 3.	Create a stored procedure ìsp_product_order_city_[your_last_name]î that accept product name as an input and top 5 cities that ordered most that product
+-- 3.	Create a stored procedure ‚Äúsp_product_order_city_[your_last_name]‚Äù that accept product name as an input and top 5 cities that ordered most that product
 -- combined with the total quantity of that product ordered from that city as output.
 CREATE PROC sp_product_order_city_Yao
 @product_name VARCHAR(20),
@@ -90,7 +90,7 @@ BEGIN
 	ORDER BY SUM(Quantity) DESC
 END;
 
--- 4.	Create 2 new tables ìpeople_your_last_nameî ìcity_your_last_nameî. City table has two records: {Id:1, City: Seattle}, {Id:2, City: Green Bay}.
+-- 4.	Create 2 new tables ‚Äúpeople_your_last_name‚Äù ‚Äúcity_your_last_name‚Äù. City table has two records: {Id:1, City: Seattle}, {Id:2, City: Green Bay}.
 -- People has three records: {id:1, Name: Aaron Rodgers, City: 2}, {id:2, Name: Russell Wilson, City:1}, {Id: 3, Name: Jody Nelson, City:2}.
 CREATE TABLE city_Yao(
 Id INT PRIMARY KEY,
@@ -113,11 +113,11 @@ VALUES (1, 'Seattle'),
 SELECT * FROM city_Yao;
 SELECT * FROM people_Yao;
 
--- Remove city of Seattle. If there was anyone from Seattle, put them into a new city ìMadisonî.
+-- Remove city of Seattle. If there was anyone from Seattle, put them into a new city ‚ÄúMadison‚Äù.
 UPDATE city_Yao
 SET City = 'Madison' WHERE City = 'Seattle';
 
--- Create a view ìPackers_your_nameî lists all people from Green Bay. If any error occurred, no changes should be made to DB. (after test) Drop both tables and view.
+-- Create a view ‚ÄúPackers_your_name‚Äù lists all people from Green Bay. If any error occurred, no changes should be made to DB. (after test) Drop both tables and view.
 CREATE VIEW Packers_Alvin
 AS
 SELECT p.Name
@@ -126,7 +126,7 @@ JOIN people_Yao p
 ON c.Id = p.City
 WHERE c.City = 'Green Bay';
 
--- 5.	 Create a stored procedure ìsp_birthday_employees_[you_last_name]î that creates a new table ìbirthday_employees_your_last_nameî and fill it with
+-- 5.	 Create a stored procedure ‚Äúsp_birthday_employees_[you_last_name]‚Äù that creates a new table ‚Äúbirthday_employees_your_last_name‚Äù and fill it with
 -- all employees that have a birthday on Feb. (Make a screen shot) drop the table. Employee table should not be affected.
 CREATE PROC sp_birthday_employees_Yao
 AS
