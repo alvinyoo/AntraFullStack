@@ -1,0 +1,14 @@
+C:\Users\alvin\Desktop\Antra C#\02UnderstandingTypes\bin\Debug\netcoreapp3.1\02UnderstandingTypes.exe
+C:\Users\alvin\Desktop\Antra C#\02UnderstandingTypes\bin\Debug\netcoreapp3.1\02UnderstandingTypes.deps.json
+C:\Users\alvin\Desktop\Antra C#\02UnderstandingTypes\bin\Debug\netcoreapp3.1\02UnderstandingTypes.runtimeconfig.json
+C:\Users\alvin\Desktop\Antra C#\02UnderstandingTypes\bin\Debug\netcoreapp3.1\02UnderstandingTypes.runtimeconfig.dev.json
+C:\Users\alvin\Desktop\Antra C#\02UnderstandingTypes\bin\Debug\netcoreapp3.1\02UnderstandingTypes.dll
+C:\Users\alvin\Desktop\Antra C#\02UnderstandingTypes\bin\Debug\netcoreapp3.1\02UnderstandingTypes.pdb
+C:\Users\alvin\Desktop\Antra C#\02UnderstandingTypes\obj\Debug\netcoreapp3.1\02UnderstandingTypes.csproj.AssemblyReference.cache
+C:\Users\alvin\Desktop\Antra C#\02UnderstandingTypes\obj\Debug\netcoreapp3.1\02UnderstandingTypes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alvin\Desktop\Antra C#\02UnderstandingTypes\obj\Debug\netcoreapp3.1\02UnderstandingTypes.AssemblyInfoInputs.cache
+C:\Users\alvin\Desktop\Antra C#\02UnderstandingTypes\obj\Debug\netcoreapp3.1\02UnderstandingTypes.AssemblyInfo.cs
+C:\Users\alvin\Desktop\Antra C#\02UnderstandingTypes\obj\Debug\netcoreapp3.1\02UnderstandingTypes.csproj.CoreCompileInputs.cache
+C:\Users\alvin\Desktop\Antra C#\02UnderstandingTypes\obj\Debug\netcoreapp3.1\02UnderstandingTypes.dll
+C:\Users\alvin\Desktop\Antra C#\02UnderstandingTypes\obj\Debug\netcoreapp3.1\02UnderstandingTypes.pdb
+C:\Users\alvin\Desktop\Antra C#\02UnderstandingTypes\obj\Debug\netcoreapp3.1\02UnderstandingTypes.genruntimeconfig.cache

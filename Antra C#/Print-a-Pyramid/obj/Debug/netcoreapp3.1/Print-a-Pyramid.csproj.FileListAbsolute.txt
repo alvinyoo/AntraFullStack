@@ -1,0 +1,14 @@
+C:\Users\alvin\Desktop\Antra C#\Print-a-Pyramid\bin\Debug\netcoreapp3.1\Print-a-Pyramid.exe
+C:\Users\alvin\Desktop\Antra C#\Print-a-Pyramid\bin\Debug\netcoreapp3.1\Print-a-Pyramid.deps.json
+C:\Users\alvin\Desktop\Antra C#\Print-a-Pyramid\bin\Debug\netcoreapp3.1\Print-a-Pyramid.runtimeconfig.json
+C:\Users\alvin\Desktop\Antra C#\Print-a-Pyramid\bin\Debug\netcoreapp3.1\Print-a-Pyramid.runtimeconfig.dev.json
+C:\Users\alvin\Desktop\Antra C#\Print-a-Pyramid\bin\Debug\netcoreapp3.1\Print-a-Pyramid.dll
+C:\Users\alvin\Desktop\Antra C#\Print-a-Pyramid\bin\Debug\netcoreapp3.1\Print-a-Pyramid.pdb
+C:\Users\alvin\Desktop\Antra C#\Print-a-Pyramid\obj\Debug\netcoreapp3.1\Print-a-Pyramid.csproj.AssemblyReference.cache
+C:\Users\alvin\Desktop\Antra C#\Print-a-Pyramid\obj\Debug\netcoreapp3.1\Print-a-Pyramid.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alvin\Desktop\Antra C#\Print-a-Pyramid\obj\Debug\netcoreapp3.1\Print-a-Pyramid.AssemblyInfoInputs.cache
+C:\Users\alvin\Desktop\Antra C#\Print-a-Pyramid\obj\Debug\netcoreapp3.1\Print-a-Pyramid.AssemblyInfo.cs
+C:\Users\alvin\Desktop\Antra C#\Print-a-Pyramid\obj\Debug\netcoreapp3.1\Print-a-Pyramid.csproj.CoreCompileInputs.cache
+C:\Users\alvin\Desktop\Antra C#\Print-a-Pyramid\obj\Debug\netcoreapp3.1\Print-a-Pyramid.dll
+C:\Users\alvin\Desktop\Antra C#\Print-a-Pyramid\obj\Debug\netcoreapp3.1\Print-a-Pyramid.pdb
+C:\Users\alvin\Desktop\Antra C#\Print-a-Pyramid\obj\Debug\netcoreapp3.1\Print-a-Pyramid.genruntimeconfig.cache

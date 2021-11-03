@@ -1,0 +1,14 @@
+C:\Users\alvin\Desktop\Antra C#\greetsUsers\bin\Debug\netcoreapp3.1\greetsUsers.exe
+C:\Users\alvin\Desktop\Antra C#\greetsUsers\bin\Debug\netcoreapp3.1\greetsUsers.deps.json
+C:\Users\alvin\Desktop\Antra C#\greetsUsers\bin\Debug\netcoreapp3.1\greetsUsers.runtimeconfig.json
+C:\Users\alvin\Desktop\Antra C#\greetsUsers\bin\Debug\netcoreapp3.1\greetsUsers.runtimeconfig.dev.json
+C:\Users\alvin\Desktop\Antra C#\greetsUsers\bin\Debug\netcoreapp3.1\greetsUsers.dll
+C:\Users\alvin\Desktop\Antra C#\greetsUsers\bin\Debug\netcoreapp3.1\greetsUsers.pdb
+C:\Users\alvin\Desktop\Antra C#\greetsUsers\obj\Debug\netcoreapp3.1\greetsUsers.csproj.AssemblyReference.cache
+C:\Users\alvin\Desktop\Antra C#\greetsUsers\obj\Debug\netcoreapp3.1\greetsUsers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alvin\Desktop\Antra C#\greetsUsers\obj\Debug\netcoreapp3.1\greetsUsers.AssemblyInfoInputs.cache
+C:\Users\alvin\Desktop\Antra C#\greetsUsers\obj\Debug\netcoreapp3.1\greetsUsers.AssemblyInfo.cs
+C:\Users\alvin\Desktop\Antra C#\greetsUsers\obj\Debug\netcoreapp3.1\greetsUsers.csproj.CoreCompileInputs.cache
+C:\Users\alvin\Desktop\Antra C#\greetsUsers\obj\Debug\netcoreapp3.1\greetsUsers.dll
+C:\Users\alvin\Desktop\Antra C#\greetsUsers\obj\Debug\netcoreapp3.1\greetsUsers.pdb
+C:\Users\alvin\Desktop\Antra C#\greetsUsers\obj\Debug\netcoreapp3.1\greetsUsers.genruntimeconfig.cache

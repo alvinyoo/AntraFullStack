@@ -1,0 +1,14 @@
+C:\Users\alvin\Desktop\Antra C#\guessedNumber\bin\Debug\netcoreapp3.1\guessedNumber.exe
+C:\Users\alvin\Desktop\Antra C#\guessedNumber\bin\Debug\netcoreapp3.1\guessedNumber.deps.json
+C:\Users\alvin\Desktop\Antra C#\guessedNumber\bin\Debug\netcoreapp3.1\guessedNumber.runtimeconfig.json
+C:\Users\alvin\Desktop\Antra C#\guessedNumber\bin\Debug\netcoreapp3.1\guessedNumber.runtimeconfig.dev.json
+C:\Users\alvin\Desktop\Antra C#\guessedNumber\bin\Debug\netcoreapp3.1\guessedNumber.dll
+C:\Users\alvin\Desktop\Antra C#\guessedNumber\bin\Debug\netcoreapp3.1\guessedNumber.pdb
+C:\Users\alvin\Desktop\Antra C#\guessedNumber\obj\Debug\netcoreapp3.1\guessedNumber.csproj.AssemblyReference.cache
+C:\Users\alvin\Desktop\Antra C#\guessedNumber\obj\Debug\netcoreapp3.1\guessedNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alvin\Desktop\Antra C#\guessedNumber\obj\Debug\netcoreapp3.1\guessedNumber.AssemblyInfoInputs.cache
+C:\Users\alvin\Desktop\Antra C#\guessedNumber\obj\Debug\netcoreapp3.1\guessedNumber.AssemblyInfo.cs
+C:\Users\alvin\Desktop\Antra C#\guessedNumber\obj\Debug\netcoreapp3.1\guessedNumber.csproj.CoreCompileInputs.cache
+C:\Users\alvin\Desktop\Antra C#\guessedNumber\obj\Debug\netcoreapp3.1\guessedNumber.dll
+C:\Users\alvin\Desktop\Antra C#\guessedNumber\obj\Debug\netcoreapp3.1\guessedNumber.pdb
+C:\Users\alvin\Desktop\Antra C#\guessedNumber\obj\Debug\netcoreapp3.1\guessedNumber.genruntimeconfig.cache
